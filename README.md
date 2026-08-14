@@ -1,3 +1,7 @@
+## ⚠️ **NOTE**
+
+> **To download the `creditcard.csv` dataset required for this project, please follow this link:**
+> 🔗 **[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)**
 # CREDIT CARD FRAUD DETECTION
 
 ### Exploratory Data Analysis, Feature Engineering & Machine Learning
