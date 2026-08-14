@@ -1,1 +1,5 @@
 run this in python 3.14
+## ⚠️ **NOTE**
+
+> **To download the `creditcard.csv` dataset required for this project, please follow this link:**
+> 🔗 **[https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)**
